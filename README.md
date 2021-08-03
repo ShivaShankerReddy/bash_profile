@@ -1,9 +1,9 @@
-# bash_profile 
-my bash profile 
+# bash_profile\
+my bash profile\
 
 
-alias python=python3\b
-alias pip=pip3\b
+alias python=python3\
+alias pip=pip3\
 
 
 # show git branch name 
